@@ -28,7 +28,7 @@ menu:
       pageRef: /skills
       weight: 3
     - name: About
-      pageRef: /about
+      pageRef: /aboutme
       weight: 4
     - name: Search
       weight: 5
