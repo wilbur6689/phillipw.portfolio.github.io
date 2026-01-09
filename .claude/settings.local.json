@@ -3,7 +3,9 @@
     "allow": [
       "Bash(go version:*)",
       "Bash(git --version:*)",
-      "Bash(sass --version:*)"
+      "Bash(sass --version:*)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)"
     ]
   }
 }
