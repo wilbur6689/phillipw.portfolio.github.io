@@ -6,7 +6,7 @@ toc: false
 ## HERO
 
 **Who am I?**
-I'm Phillip Wilbur, a software developer focused on building understandable, maintainable, and useful solutions.
+I'm Phillip Willis, a software developer focused on building understandable, maintainable, and useful solutions.
 
 **What kind of work do I do?**
 Backend development, system architecture, rapid prototyping, and full-stack applications.

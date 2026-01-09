@@ -59,17 +59,6 @@ I love the opportunity to help out friends and family with years of experience a
 
 *Demonstrates: Reliability, problem-solving, service-oriented mindset*
 
-### Additional Interests
-
-**Woodworking** *(Off and on throughout my adult life)*
-- No big projects but I enjoy building things with my hands and have access to a decent sized workshop with all types of woodworking tools
-
-**Gaming with Friends** *(Most of my life)*
-- I play open world crafting survival games, simulators, and sometimes party games with friends
-
-**Church Service** *(My whole life)*
-- I offer a few hours a week of service to my church and have recently been called as a leader in our church's youth program. Most of my experience has been serving in the children's Sunday school service.
-
 ---
 
 *Note: Reconsider mentioning previous business involvement based on context*
