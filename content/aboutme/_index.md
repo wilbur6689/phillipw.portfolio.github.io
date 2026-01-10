@@ -12,7 +12,7 @@ I'm Phillip Willis, a software engineer who builds things, thinks deeply about p
 
 📧 **Email:** [wilbur6689@gmail.com](mailto:wilbur6689@gmail.com)
 
-💼 **LinkedIn:** [linkedin.com/in/phillipwillis-587a8954](https://www.linkedin.com/in/phillipwillis-587a8954)
+💼 **LinkedIn:** [linkedin.com/in/phillipwillis-587a8954](https://www.linkedin.com/in/phillip-willis-587a8954/)
 
 🐙 **GitHub:** [github.com/wilbur6689](https://github.com/wilbur6689)
 
